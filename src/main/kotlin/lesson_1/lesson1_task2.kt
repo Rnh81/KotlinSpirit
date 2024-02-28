@@ -7,9 +7,12 @@ fun main() {
     println(notificationText)
 
     val workersNum = 2000
-    val theDepartedNum = 1
+    //println(workersNum) Количество рабочих
 
-    println(workersNum - theDepartedNum)
+    var workersNum1 = 2000
+    var theDepartedNum = 1 // количество уволенных
+
+    println(workersNum1 - theDepartedNum)
 
 
 }
