@@ -2,7 +2,7 @@ package org.example.lesson_1
 
 fun main() {
     val numberSneakrs = 75
-    val notificationText = "Благодарим за покупку!"
+    val notificationText = "Благодарим за покупку!Заходите еще!"
     println(numberSneakrs)
     println(notificationText)
 
