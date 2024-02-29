@@ -1,6 +1,6 @@
 package org.example.lesson_1
 
-fun main() {
+fun  main(){
     val length: Long = 40_868_600_000
     val age: Int = 27
     val partOfDay: Double = 0.075
@@ -14,5 +14,4 @@ fun main() {
     println(second)
     println(partOfYear)
     println(apogee)
-
 }
